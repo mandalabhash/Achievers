@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AchieversGPT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00870C5C26C64D08A39B1B6B280FCAFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC5A1C5357514E4A8E412F051F7C8D91 }}
           package: .
